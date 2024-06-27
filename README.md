@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div>
-![TherapAI](https://github.com/17arhaan/TherapAI/assets/123371085/5025a6a7-33ee-4394-8708-c68d947e2f1d)
+https://github.com/17arhaan/TherapAI/assets/123371085/5025a6a7-33ee-4394-8708-c68d947e2f1d
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
