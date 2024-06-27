@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div>
-<img src="https://github.com/17arhaan/TherapAI/assets/123371085/7b6ad2f7-feb1-475e-9248-31d202c501ae.gif">
+<img src="https://dribbble.com/shots/14110896-Artificial-Intelligence-In-medicine/attachments/5733090?mode=media">
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
