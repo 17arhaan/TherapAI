@@ -1,0 +1,64 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.clock {
+    font-size: 14px;
+    color: #aaaaaa;
+}
+.conversation {
+    border: 1px solid #333;
+    padding: 10px;
+    height: 400px;
+    overflow-y: scroll;
+    background-color: #1e1e1e;
+    margin-top: 20px;
+}
+.message {
+    margin-bottom: 10px;
+}
+.message span {
+    font-weight: bold;
+}
+.message.user {
+    color: #00ff00;
+}
+.message.assistant {
+    color: #ff4500;
+}
+.message.system {
+    color: #00ffff;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+input[type="text"] {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #333;
+    background-color: #333;
+    color: #ffffff;
+}
+input[type="submit"] {
+    padding: 10px;
+    border: 1px solid #333;
+    background-color: #555;
+    color: #ffffff;
+    cursor: pointer;
+}
+input[type="submit"]:hover {
+    background-color: #777;
+}
