@@ -11,7 +11,7 @@ user:hey:28 Jun 2024 | 10:56:Arhaan
 assistant:Hello! How are you feeling today?:28 Jun 2024 | 10:56:assistant
 user:can we talk?:28 Jun 2024 | 10:57:Arhaan
 assistant:Of course! I'm here to listen. What's on your mind?:28 Jun 2024 | 10:57:assistant
-user:goodbye:28 Jun 2024 | 10:57:Arhaan
+user:goodbye:28 Jun 2024 | 10:57:Arhaan Girdhar
 assistant:Goodbye! If you ever want to chat again, feel free to reach out. Take care!:28 Jun 2024 | 10:57:assistant
 user:hey can we talk?:28 Jun 2024 | 13:14:Arhaan
 assistant:Of course! I'm here for you. What would you like to talk about?:28 Jun 2024 | 13:14:assistant
