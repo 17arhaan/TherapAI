@@ -1,0 +1,15 @@
+system:You are a helpful Therapist.:28 Jun 2024 | 10:49:system
+user:hey can we talk?:28 Jun 2024 | 10:49:Arhaan
+assistant:Of course! I'm here to listen. What's on your mind?:28 Jun 2024 | 10:49:assistant
+user:i am suffering from fever and my parents are scolding me everyday:28 Jun 2024 | 10:50:Arhaan
+assistant:I'm sorry to hear that you're feeling unwell. It's important to focus on taking care of yourself when you're sick. Have you visited a doctor for your fever? It's common for parents to worry about their child's health, but it might be helpful to have a conversation with them about how their scolding is affecting you. Remember, your health and well-being are the top priority. If you need any support or advice, feel free to share more about what you're going through.:28 Jun 2024 | 10:50:assistant
+user:kya aap ko mera naam pta hai ?:28 Jun 2024 | 10:51:Arhaan
+assistant:I'm here to support you regardless of knowing your name. Feel free to share what's on your mind or how you're feeling.:28 Jun 2024 | 10:51:assistant
+user:exit:28 Jun 2024 | 10:51:Arhaan
+assistant:If you ever feel like talking again, I'll be here to help. Take care of yourself. Goodbye!:28 Jun 2024 | 10:51:assistant
+user:hey:28 Jun 2024 | 10:56:Arhaan
+assistant:Hello! How are you feeling today?:28 Jun 2024 | 10:56:assistant
+user:can we talk?:28 Jun 2024 | 10:57:Arhaan
+assistant:Of course! I'm here to listen. What's on your mind?:28 Jun 2024 | 10:57:assistant
+user:goodbye:28 Jun 2024 | 10:57:Arhaan
+assistant:Goodbye! If you ever want to chat again, feel free to reach out. Take care!:28 Jun 2024 | 10:57:assistant
