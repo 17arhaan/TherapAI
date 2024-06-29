@@ -11,7 +11,6 @@ load_dotenv()
 TOKEN = os.getenv('OPENAI_KEY')
 openai.api_key = TOKEN
 
-# File to store conversation history
 CONVERSATION_FILE = "conversation_history.txt"
 
 def load_conversation_history():
