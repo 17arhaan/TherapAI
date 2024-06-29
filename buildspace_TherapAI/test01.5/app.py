@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify, render_template, session
 import openai
 import os
+import json
 from dotenv import load_dotenv
 from datetime import datetime
 import logging
@@ -67,6 +68,9 @@ def chat():
         messages.append({"role": "user", "content": user_input, "timestamp": timestamp, "username": username})
 
         response = openai.ChatCompletion.create(
+            file = json.load("dataset.jsonl"),
+            #file=open("dataset.json"),
+            purpose='fine-tune',
             model="gpt-4",
             messages=[{"role": m["role"], "content": m["content"]} for m in messages if m['role'] in ['system', 'user', 'assistant']]
         )
