@@ -33,3 +33,13 @@ user:and who is the founder of therapAI:29 Jun 2024 | 15:32:Arhaan
 assistant:TherapAI is an AI-driven platform designed to provide therapeutic support and guidance. The specific founders or creators of TherapAI may vary depending on the company or organization behind the platform. If you have a specific question regarding the founders of a particular AI therapy platform, I recommend checking their official website or contacting their support team for accurate information.:29 Jun 2024 | 15:32:assistant
 user:do you know who Arhaan is ?:29 Jun 2024 | 15:33:Arhaan
 assistant:I'm not sure who you are referring to. Could you provide more context or information so that I can better understand who Arhaan is?:29 Jun 2024 | 15:33:assistant
+user:sup man:29 Jun 2024 | 21:23:anonymous
+assistant:Hello! How can I assist you today?:29 Jun 2024 | 21:23:assistant
+user:do you know who i am ?:29 Jun 2024 | 21:24:anonymous
+assistant:I'm here to provide support and help you with any questions or concerns you have. If there's anything specific you'd like to discuss, feel free to share.:29 Jun 2024 | 21:24:assistant
+user:i am your dad:29 Jun 2024 | 21:24:anonymous
+assistant:I'm an AI assistant, so I do not have a biological family or relationships. However, I am here to provide guidance and support if you have any questions or need assistance. Feel free to share what's on your mind.:29 Jun 2024 | 21:24:assistant
+user:hey i am depressed beause i was getting bullied by my classmates:29 Jun 2024 | 21:25:Arhaan
+Have you talked to a trusted adult, teacher, or counselor about what you're experiencing? It's important to reach out for help and share your feelings with someone you trust. In addition, there are hotlines and resources available for those who are dealing with bullying and its impact on mental health. Remember, you are valued, and there are people who care about you and want to help you through this difficult time.:29 Jun 2024 | 21:25:assistant
+user:do you know why i am here ?:29 Jun 2024 | 21:28:Arhaan
+assistant:You're here to share your feelings and seek help. I'm here to listen and support you through any challenges you may be facing, including dealing with bullying. It's important to remember that you're not alone, and there are resources and strategies that can help you cope with bullying and improve your well-being. If you'd like to talk more about what you're going through or need advice on how to handle the situation, feel free to share.:29 Jun 2024 | 21:28:assistant
