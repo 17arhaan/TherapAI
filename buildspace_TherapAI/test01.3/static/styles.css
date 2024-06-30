@@ -1,0 +1,35 @@
+/* Add your custom styles here */
+
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+#chat-box {
+    height: 400px;
+    overflow-y: scroll;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+#chat-form {
+    display: flex;
+}
+
+#chat-form input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+#chat-form button {
+    padding: 10px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+}
