@@ -63,7 +63,7 @@ def chat():
         messages.append({"role": "user", "content": user_input, "timestamp": timestamp, "username": username})
         
         response = openai.ChatCompletion.create(
-            model="gpt-4o",
+            model="gpt-4",
             messages=[{"role": m["role"], "content": m["content"]} for m in messages if m['role'] in ['system', 'user', 'assistant']]
         )
         
